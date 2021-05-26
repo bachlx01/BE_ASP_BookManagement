@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\Smin.Book\Book.DL\bin\Debug\Book.DL.dll
+C:\Users\ADMIN\source\repos\Smin.Book\Book.DL\bin\Debug\Book.DL.pdb
+C:\Users\ADMIN\source\repos\Smin.Book\Book.DL\obj\Debug\Book.DL.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Smin.Book\Book.DL\obj\Debug\Book.DL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Smin.Book\Book.DL\obj\Debug\Book.DL.dll
+C:\Users\ADMIN\source\repos\Smin.Book\Book.DL\obj\Debug\Book.DL.pdb
+C:\Users\ADMIN\source\repos\Smin.Book\Book.DL\bin\Debug\Book.DL.dll.config
+C:\Users\ADMIN\source\repos\Smin.Book\Book.DL\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\Smin.Book\Book.DL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\Smin.Book\Book.DL\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\Smin.Book\Book.DL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\Smin.Book\Book.DL\obj\Debug\Book.DL.csproj.CopyComplete

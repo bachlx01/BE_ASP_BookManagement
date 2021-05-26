@@ -1,0 +1,85 @@
+﻿
+@{
+    ViewBag.Title = "User Information";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <div class="container">
+
+        <h2 class="text-info d-flex justify-content-center">Thông tin cá nhân</h2>
+        <table id="tableUser" class="table mx-auto col-sm-12 col-md-8 col-lg-4">
+            <tbody>
+                <tr class="row">
+                    <td class="col-lg-3">user ID</td>
+                    <td class="col-lg-9"><input id="txtUserLogin" type="text" name="name" value="" disabled/></td>
+                </tr>
+                <tr class="row">
+                    <td class="col-lg-3">Password</td>
+                    <td class="col-lg-9"><input id="txtPassword" type="text" name="name" value="" disabled/></td>
+                </tr>
+                <tr class="row">
+                    <td class="col-lg-3">Full name</td>
+                    <td class="col-lg-9"><input id="txtFullName" type="text" name="name" value="" disabled/></td>
+                </tr>
+                <tr class="row">
+                    <td class="col-lg-3">Birthday</td>
+                    <td class="col-lg-9"><input id="txtBirthday" type="text" name="name" value="" disabled/></td>
+                </tr>
+                <tr class="row">
+                    <td class="col-lg-3">Gender</td>
+                    <td class="col-lg-9"><input id="txtGender" type="text" name="name" value="" disabled/></td>
+                </tr>
+                <tr class="row">
+                    <td class="col-lg-3">Mobile</td>
+                    <td class="col-lg-9"><input id="txtMobile" type="text" name="name" value="" disabled/></td>
+                </tr>
+                <tr class="row">
+                    <td class="col-lg-3">Address</td>
+                    <td class="col-lg-9"><input id="txtAddress" type="text" name="name" value="" disabled/></td>
+                </tr>
+                <tr class="row">
+                    <td class="col-lg-3">Email</td>
+                    <td class="col-lg-9"><input id="txtEmail" type="text" name="name" value="" disabled/></td>
+                </tr>
+                <tr class="row">
+                    <td class="col-3">CMTNN</td>
+                    <td class="col-9"><input id="txtCmtnn" type="text" name="name" value="" disabled/></td>
+                </tr>
+                <tr>
+                    <td rowspan="2" class="text-center">
+                        <button id="btnUpdateUser" class="btn btn-primary mx-2"><i class="fas fa-edit mr-1"></i>Cập nhật thông tin</button>
+                    </td>
+                </tr>
+            </tbody>
+
+        </table>
+    </div>
+
+<div class="modal fade" data-backdrop="static">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header bg-primary">
+                <h5 class="modal-title">Nhập mật khẩu để lưu thay đổi</h5>
+                <button class="close" data-dismiss="modal">
+                    <span>&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row mb-2">
+                        <label class="col-3" for="#txtConfirmPassword">Password: </label>
+                        <input id="txtConfirmPassword" class="form-control col-9" type="text" required />
+                    </div>
+                    <div class="text-danger" id="inputNotice"></div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button id="btnConfirmPassword" class="btn btn-primary">Confirm</button>
+                <button class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+

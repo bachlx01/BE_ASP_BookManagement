@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\bin\Debug\Book.BL.dll
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\bin\Debug\Book.BL.pdb
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\obj\Debug\Book.BL.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\obj\Debug\Book.BL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\obj\Debug\Book.BL.dll
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\obj\Debug\Book.BL.pdb
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\bin\Debug\Book.BL.dll.config
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\bin\Debug\Book.DL.dll
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\bin\Debug\Book.Entity.dll
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\bin\Debug\Book.DL.pdb
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\bin\Debug\Book.DL.dll.config
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\bin\Debug\Book.Entity.pdb
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\Smin.Book\Book.BL\obj\Debug\Book.BL.csproj.CopyComplete

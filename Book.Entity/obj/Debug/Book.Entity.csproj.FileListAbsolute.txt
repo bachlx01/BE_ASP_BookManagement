@@ -1,0 +1,6 @@
+C:\Users\ADMIN\source\repos\Smin.Book\Book.Entity\bin\Debug\Book.Entity.dll
+C:\Users\ADMIN\source\repos\Smin.Book\Book.Entity\bin\Debug\Book.Entity.pdb
+C:\Users\ADMIN\source\repos\Smin.Book\Book.Entity\obj\Debug\Book.Entity.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Smin.Book\Book.Entity\obj\Debug\Book.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Smin.Book\Book.Entity\obj\Debug\Book.Entity.dll
+C:\Users\ADMIN\source\repos\Smin.Book\Book.Entity\obj\Debug\Book.Entity.pdb
